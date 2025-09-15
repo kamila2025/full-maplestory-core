@@ -30,6 +30,7 @@
 4. 初始化資料庫並建立使用者
     ```bash
     php artisan migrate
+    php artisan make:user
     ```
 
 5. 啟動 PHP 開發伺服器
